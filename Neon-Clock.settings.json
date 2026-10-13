@@ -1,0 +1,16 @@
+﻿{
+    "DateSize":  26,
+    "ColorMode":  "Auto",
+    "Use24h":  true,
+    "DateFont":  "Chakra Petch",
+    "CustomColor":  "#A020F0",
+    "TintLighten":  45,
+    "TimeSize":  130,
+    "Right":  60,
+    "Top":  30,
+    "Glow":  60,
+    "ImagePath":  "",
+    "TimeFont":  "Chakra Petch",
+    "TimeOpacity":  55,
+    "DateOpacity":  50
+}
