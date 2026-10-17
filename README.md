@@ -114,4 +114,4 @@ Issues and pull requests are welcome. The whole widget is a single `.ps1` file: 
 
 ## License
 
-Add your license here (for example, MIT).
+[MIT License](LICENSE)
